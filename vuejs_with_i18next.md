@@ -1,4 +1,4 @@
-# vuejs + i18next
+# vuejs + i18next 实现多国语言UI
 
 ## 0. install i18next & i18next-xhr-backend
 npm install i18next --save-dev
